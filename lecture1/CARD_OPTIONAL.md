@@ -25,7 +25,7 @@ Note
 2. Add both sums.
 3. If the total modulo 10 is 0, the number is valid.
 
-(If you need additional context)[https://www.youtube.com/watch?v=kMpEj7roKxM]
+[If you need additional context](https://www.youtube.com/watch?v=kMpEj7roKxM)
 
 ## Brand Detection
 
