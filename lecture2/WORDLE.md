@@ -48,8 +48,8 @@
 
 static const string WORDS[] = {
     "APPLE", "GRAPE", "BERRY", "MANGO", "LEMON", "PEACH", "CHILI",
-    "OLIVE", "ONION", "GARLIC", "BASIL", "COCOA", "HONEY", "SUGAR",
-    "PIZZA", "BREAD", "PASTA", "CREAM", "TOAST", "FRUIT", "SALAD",
+    "OLIVE", "ONION", "BASIL", "COCOA", "HONEY", "SUGAR", "PIZZA", 
+    "BREAD", "PASTA", "CREAM", "TOAST", "FRUIT", "SALAD", "HAPPY",
 };
 static const int WORD_COUNT = (int)(sizeof(WORDS) / sizeof(WORDS[0]));
 
